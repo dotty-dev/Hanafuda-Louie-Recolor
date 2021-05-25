@@ -3,6 +3,10 @@
 # Hanafuda-Louie-Recolor
 A recolor of [Louie Mantia](https://www.junior.cards/about/)'s [Hanafuda](https://en.wikipedia.org/wiki/Hanafuda) Deck on Wikipedia.
 
+Preview:
+![image](https://user-images.githubusercontent.com/19834703/119559395-e2a8d880-bda2-11eb-9cbe-6bb8538feec1.png)
+
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
