@@ -1,7 +1,8 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # Hanafuda-Louie-Recolor
-A recolor of Louie Mantia's Hanafuda Deck on Wikipedia
+A recolor of [Louie Mantia](https://www.junior.cards/about/)'s [Hanafuda](https://en.wikipedia.org/wiki/Hanafuda) Deck on Wikimedia, original graphics can be found [here](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles&user=Louiemantia&ilshowall=1)
+
 
 
 This work is licensed under a
